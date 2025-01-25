@@ -1,9 +1,10 @@
-function Map() {
-  return (
-    <div>
-      Map
-    </div>
-  )
+import type { Place } from "../api/Place";
+interface MapProps {
+  place: Place | null;
 }
 
-export {Map}
+function Map({ place }: MapProps) {
+  return <div>Map</div>;
+}
+
+export { Map };

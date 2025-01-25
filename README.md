@@ -48,3 +48,5 @@ export default tseslint.config({
   },
 })
 ```
+
+https://nominatim.org/release-docs/develop/api/Search/
