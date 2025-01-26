@@ -49,4 +49,5 @@ export default tseslint.config({
 })
 ```
 
-https://nominatim.org/release-docs/develop/api/Search/
+locations api - https://nominatim.org/release-docs/develop/api/Search/
+map api - https://leafletjs.com/reference.html
